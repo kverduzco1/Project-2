@@ -5,7 +5,7 @@ This panel was built to help me practice DOM manipulation and flexbox layout. It
 
 ---
 
-## 🔧 What It Does:
+##  What It Does:
 
 - Displays four step indicators (circles) connected by a progress line  
 - Highlights completed steps with color and styling  
@@ -30,7 +30,7 @@ This panel was built to help me practice DOM manipulation and flexbox layout. It
 
 ---
 
-## 🐞 What Went Wrong:
+## What Went Wrong:
 
 - I accidentally reused the class name `.Progress` for both the container and the progress bar  
 - The blue progress bar appeared in the wrong place due to incorrect use of `transform` and `top`  
