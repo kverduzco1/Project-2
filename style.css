@@ -7,10 +7,22 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: center;
     margin: 0;
     height: 100vh;
     overflow: hidden;
 }
+
+.container {
+    text-align: center;
+
+}
+
+.Progress{
+    display: flex;
+    justify-content: space-between;
+}
+
 
 h1 {
     color: rgb(0, 0, 0);
